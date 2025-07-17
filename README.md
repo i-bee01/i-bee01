@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Ibee & I am a passionate Tech bro
+My name is Ibee & I am an aspiring tech bro
 
 <!--
 **i-bee01/i-bee01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
