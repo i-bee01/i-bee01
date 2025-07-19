@@ -1,12 +1,12 @@
-## Hi there 👋 You are now entering Ibee's Domain... 🌟Welcome to my tech world🌟🧑🏽‍💻🚀
+## Hi there 👋 🌟You are now entering Ibee's Domain🌟 Welcome to my tech world🧑🏽‍💻🚀
 My name is Ibee & I am an aspiring tech bro 😉 
 
 Alittle bit about me:
 - 🔭 I’m currently working on the CCFC Website, & Ibee's Website
 - 🌱 I’m currently learning Python & TypeScript
 - 👯 I’m looking to collaborate on open-source projects
-- ⚡ Fun facts: Coding aside.. sports is my escape, particularly football 
-                I geek out on anime (or in general, most things with good storytelling)
+- ⚡ Fun facts: - Coding aside.. sports is my escape, particularly football 
+                - & I geek out on anime (or in general, most things with good storytelling)
 -  📫 How to reach me: ibee2k12@gmail.com; https://www.linkedin.com/in/iberedem-umoh/
 
 <!--
