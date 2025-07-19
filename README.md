@@ -1,6 +1,7 @@
-## Hi there 👋 You've now entered Ibee's Domain... 🌟Welcome to my tech world🌟🧑🏽‍💻🚀
-My name is Ibee & I am an aspiring tech bro 😉... 🤗  
+## Hi there 👋 You are now entering Ibee's Domain... 🌟Welcome to my tech world🌟🧑🏽‍💻🚀
+My name is Ibee & I am an aspiring tech bro 😉 
 
+Alittle bit about me:
 - 🔭 I’m currently working on the CCFC Website, & Ibee's Website
 - 🌱 I’m currently learning Python & TypeScript
 - 👯 I’m looking to collaborate on open-source projects
