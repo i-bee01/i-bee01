@@ -1,6 +1,6 @@
 ##  🌟You are now entering Ibee's Domain🌟 
 
-##  Hi there 👋 Welcome to my tech world🧑🏽‍💻🚀
+## 👋 I'm Ibee...Welcome to my tech world🧑🏽‍💻🚀
 
 A Mechanical Engineer turned Tech bro 🤓 
 
