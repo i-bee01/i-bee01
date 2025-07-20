@@ -2,7 +2,7 @@
 
 ##  Hi there 👋 Welcome to my tech world🚀
 
-I'm Ibee & I am a Mechanical Engineer turned Tech bro 🧑🏽‍💻🤓 
+A Mechanical Engineer turned Tech bro 🧑🏽‍💻🤓 
 
 Alittle bit about me:
 - 🔭 I’m currently working on the CCFC Website, & Ibee's Website
