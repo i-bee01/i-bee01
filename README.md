@@ -1,8 +1,8 @@
 ##  🌟You are now entering Ibee's Domain🌟 
 
-##  Hi there 👋 Welcome to my tech world🚀
+##  Hi there 👋 Welcome to my tech world🧑🏽‍💻🚀
 
-A Mechanical Engineer turned Tech bro 🧑🏽‍💻🤓 
+A Mechanical Engineer turned Tech bro 🤓 
 
 Alittle bit about me:
 - 🔭 I’m currently working on the CCFC Website, & Ibee's Website
