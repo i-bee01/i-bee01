@@ -15,6 +15,9 @@
 # Education
 - Diploma in Software Engineering from BrainStation
 - Professional Certificate in Data Analytics from BrainStation
+- Bachelor of Science, Mechanical Engineering from the University of Saskatchewan
+- Bachelor of Arts, Business Economics from the University of Saskatchewan
+- Masters of Science, Financial Engineering (Current Part-time)
 
 # Tech Stack
 
