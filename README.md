@@ -1,6 +1,6 @@
 #  🌟💡You are now entering Ibee's Domain 💡🌟
  
- ### Hi 👋 I'm Ibee...Welcome to my tech world 💻🚀
+ ### Hi 👋🏾 I'm Ibee...Welcome to my tech world 💻🚀
 
 ## 🤓 A little bit about me:
 -  A mechanical engineer turned Tech bro 
@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Python & TypeScript
 - 👯 I’m looking to collaborate on open-source projects
 - ⚡ Fun facts: - Coding aside.. sports is my escape, particularly football & I geek out on anime (or in general, most things with good storytelling)
--  📫 How to reach me: ibee2k12@gmail.com; https://www.linkedin.com/in/iberedem-umoh/
+-  How to reach me: ibee2k12@gmail.com; https://www.linkedin.com/in/iberedem-umoh/
 
 ## 🛠 Skills/Tech Stack
 
@@ -19,9 +19,9 @@
 - Bachelor of Arts, ***Business Economics (French Minor)*** from the University of Saskatchewan
 - Master of Science, ***Financial Engineering*** (Current, Part-time)
 
-## 🧑🏽‍💻 Current Projects
+## 🧑🏽‍💻 Current Projects 💼
 
-## Connect with me
+## 📫 Connect with me 🤝🏿
 
 ### *Just playing and having fun with technology* 🦾🤖
 
