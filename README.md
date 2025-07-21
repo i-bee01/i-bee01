@@ -1,10 +1,11 @@
- ## Hi 👋 I'm Ibee...Welcome to my tech world🧑🏽‍💻🚀
+ # Hi 👋 I'm Ibee...Welcome to my tech world🧑🏽‍💻🚀
 
-A Mechanical Engineer turned Tech bro 🤓 
+ 
 
 ##  🌟You are now entering Ibee's Domain🌟
 
-Alittle bit about me:
+# Alittle bit about me:
+
 - 🔭 I’m currently working on the CCFC Website, & Ibee's Website
 - 🌱 I’m currently learning Python & TypeScript
 - 👯 I’m looking to collaborate on open-source projects
