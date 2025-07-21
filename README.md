@@ -12,7 +12,7 @@
 
 # Skills
 
-# Education
+# 🎓Education
 - Diploma in Software Engineering from BrainStation
 - Professional Certificate in Data Analytics from BrainStation
 - Bachelor of Science, Mechanical Engineering from the University of Saskatchewan
@@ -22,6 +22,8 @@
 # Tech Stack
 
 # Connect with me
+
+### We are just having fun with technology 🦾
 
 
 
