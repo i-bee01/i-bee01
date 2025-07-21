@@ -10,7 +10,7 @@
 - ⚡ Fun facts: - Coding aside.. sports is my escape, particularly football & I geek out on anime (or in general, most things with good storytelling)
 -  📫 How to reach me: ibee2k12@gmail.com; https://www.linkedin.com/in/iberedem-umoh/
 
-## Skills/Tech Stack
+## 🛠 Skills/Tech Stack
 
 ## 🎓Education
 - Diploma in ***Software Engineering*** from BrainStation
