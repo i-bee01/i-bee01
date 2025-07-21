@@ -1,8 +1,6 @@
 #  🌟💡You are now entering Ibee's Domain 💡🌟
  
- ### Hi 👋 I'm Ibee...Welcome to my tech world 🦾💻🚀
-
-
+ ### Hi 👋 I'm Ibee...Welcome to my tech world 💻🚀
 
 # A little bit about me:
 - 🤓 A mechanical engineer turned Tech bro 🧑🏽‍💻
@@ -15,6 +13,7 @@
 # Skills
 
 # Education
+- Diploma in Software Engineering 
 
 # Tech Stack
 
