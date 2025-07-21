@@ -13,7 +13,8 @@
 # Skills
 
 # Education
-- Diploma in ### Software Engineering from
+- Diploma in Software Engineering from BrainStation
+- Professional Certificate in Data Analytics from BrainStation
 
 # Tech Stack
 
