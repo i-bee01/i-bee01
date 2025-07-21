@@ -16,6 +16,8 @@
 
 # Education
 
+# Tech Stack
+
 
 
 
