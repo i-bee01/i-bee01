@@ -17,7 +17,7 @@
 - Certificate in ***Data Analytics*** from BrainStation
 - Bachelor of Science, ***Mechanical Engineering*** from the University of Saskatchewan
 - Bachelor of Arts, ***Business Economics (French Minor)*** from the University of Saskatchewan
-- Master of Science, ***Financial Engineering*** (Current,Part-time)
+- Master of Science, ***Financial Engineering*** (Current, Part-time)
 
 ## Current Projects
 
