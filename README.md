@@ -13,11 +13,11 @@
 ## Skills/Tech Stack
 
 ## 🎓Education
-- Diploma in *Software Engineering* from BrainStation
-- Professional Certificate in *Data Analytics* from BrainStation
-- Bachelor of Science, Mechanical Engineering from the University of Saskatchewan
-- Bachelor of Arts, Business Economics from the University of Saskatchewan
-- Master of Science, Financial Engineering (Current,Part-time)
+- Diploma in ***Software Engineering*** from BrainStation
+- Certificate in ***Data Analytics*** from BrainStation
+- Bachelor of Science, ***Mechanical Engineering*** from the University of Saskatchewan
+- Bachelor of Arts, ***Business Economics (French Minor)*** from the University of Saskatchewan
+- Master of Science, ***Financial Engineering*** (Current,Part-time)
 
 
 
