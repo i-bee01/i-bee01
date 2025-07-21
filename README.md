@@ -13,7 +13,7 @@
 # Skills
 
 # Education
-- Diploma in Software Engineering 
+- Diploma in ### Software Engineering from
 
 # Tech Stack
 
