@@ -23,7 +23,7 @@
 
 ## Connect with me
 
-### We are just having fun with technology 🦾🤖
+### *Just playing and having fun with technology* 🦾🤖
 
 
 
