@@ -12,6 +12,10 @@
 - ⚡ Fun facts: - Coding aside.. sports is my escape, particularly football & I geek out on anime (or in general, most things with good storytelling)
 -  📫 How to reach me: ibee2k12@gmail.com; https://www.linkedin.com/in/iberedem-umoh/
 
+# Skills
+
+
+
 <!--
 **i-bee01/i-bee01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
