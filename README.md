@@ -14,6 +14,10 @@
 
 # Skills
 
+# Education
+
+
+
 
 
 <!--
