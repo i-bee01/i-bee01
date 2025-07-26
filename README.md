@@ -8,7 +8,6 @@
 - 🌱 I’m currently learning Python & TypeScript
 - 👯 I’m looking to collaborate on open-source projects
 - ⚡ Fun facts: - Coding aside.. sports is my escape, particularly football & I geek out on anime (or in general, most things with good storytelling)
--  How to reach me: ibee2k12@gmail.com; https://www.linkedin.com/in/iberedem-umoh/
 
 ## 🛠 Skills/Tech Stack :
 
@@ -23,6 +22,8 @@
 - Calgary Centaurs Website (CCFC)
 
 ## 📫 Connect with me 🤝🏿:
+-  Email: ibee2k12@gmail.com
+-  LinkedIn: https://www.linkedin.com/in/iberedem-umoh/
 
 ### *Just playing and having fun with technology* 🦾🤖
 
