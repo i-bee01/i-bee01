@@ -2,7 +2,7 @@
  
  ### Hi 👋🏾 I'm Ibee...Welcome to my tech world 💻🚀
 
-## 🤓 A little bit about me :
+## 🔍 A little bit about me 🤓:
 -  A mechanical engineer turned Tech bro 
 - 🔭 I’m currently working on the CCFC Website, & Ibee's Website
 - 🌱 I’m currently learning Python & TypeScript
