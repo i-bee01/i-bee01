@@ -21,6 +21,10 @@
 ## 🧑🏽‍💻 Current Projects 💼:
 - Calgary Centaurs Website (CCFC)
 
+## Ibee's Den:
+Coding aside.. I enjoy
+- Physical Activity & Sports, particularly football ⚽️
+
 ## 📫 Connect with me 🤝🏿:
 -  Email: ibee2k12@gmail.com
 -  LinkedIn: https://www.linkedin.com/in/iberedem-umoh/
