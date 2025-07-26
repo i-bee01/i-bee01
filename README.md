@@ -23,7 +23,7 @@
 
 ## Ibee's Den:
 Coding aside.. I enjoy
-- Physical Activity & Sports, particularly football ⚽️
+- Physical Activity & Sports, particularly ball sports like football ⚽️, & hiking 🧑🏿‍🦯‍➡️
 - Anime-obsessed...Hit me up if you an anime fan!
 
 ## 📫 Connect with me 🤝🏿:
