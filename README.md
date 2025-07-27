@@ -25,7 +25,7 @@
 Coding aside.. I enjoy:
 - Physical Activity & Sports, particularly ball sports like football ⚽️, & hiking 🧑🏿‍🦯‍➡️
 - Anime-obsessed...Code Geass, Vinland Saga, Kuroko no Basket, Hit me up if you are an anime fan! 🐦‍🔥
-- Great storytelling across most media: Books, TV Shows/Movies, Video games 
+- Great storytelling across most media: Books, TV Shows/Movies, Video games 🎮 
 
 ## 📫 Connect with me 🤝🏿:
 -  Email ✉️: ibee2k12@gmail.com
