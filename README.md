@@ -24,7 +24,7 @@
 ## Ibee's Den:
 Coding aside.. I enjoy:
 - Physical Activity & Sports, particularly ball sports like football ⚽️, & hiking 🧑🏿‍🦯‍➡️
-- Anime-obsessed...Code Geass, Vinland Saga, Kuroko no Basket, Hit me up if you are an anime fan!
+- Anime-obsessed...Code Geass, Vinland Saga, Kuroko no Basket, Hit me up if you are an anime fan! 🐦‍🔥
 - Great story-telling across most media: Books, Tv Shows/Movies, Video games 
 
 ## 📫 Connect with me 🤝🏿:
