@@ -7,7 +7,6 @@
 - 🔭 I’m currently working on the CCFC Website, & Ibee's Website
 - 🌱 I’m currently learning Python & TypeScript
 - 👯 I’m looking to collaborate on open-source projects
-- ⚡ Fun facts: - Coding aside.. sports is my escape, particularly football & I geek out on anime (or in general, most things with good storytelling)
 
 ## 🛠 Skills/Tech Stack 💪🏿:
 
@@ -25,7 +24,8 @@
 Coding aside.. I enjoy:
 - Physical Activity & Sports, particularly ball sports like football ⚽️, & hiking 🧑🏿‍🦯‍➡️
 - Anime-obsessed...Code Geass, Vinland Saga, Kuroko no Basket, Hit me up if you are an anime fan! 🐦‍🔥
-- Great storytelling across most media: Books, TV Shows/Movies, Video games 🎮 
+- Great storytelling across most media: Books, TV Shows/Movies, Video games 🎮🕹️ 
+- Intimate hangouts and Game nights! 🎲💎♠️
 
 ## 📫 Connect with me 🤝🏿:
 -  Email ✉️: ibee2k12@gmail.com
